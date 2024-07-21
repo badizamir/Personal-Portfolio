@@ -24,8 +24,6 @@ Explore my portfolio live [here](#) (insert your portfolio link here) to see it 
 ## Contributing:
 I welcome contributions! If you have suggestions for improvement or would like to collaborate, feel free to fork this repository and submit a pull request.
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact:
 Let's connect! Reach out to me on [LinkedIn](https://www.linkedin.com/in/zamirbadi/) for any questions or collaborations regarding this project.
